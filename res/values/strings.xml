@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">志翔报表</string>
+    <string name="password">密码</string>
+    <string name="server_url">服务器URL</string>
+    <string name="save">保存</string>
+    <string name="saveSuccess">保存成功!</string>
+    <string name="saveFailed">密码错误,保存失败!</string>
+    <string name="sure_quit_app">再按一次退出程序</string>
+    <string name="settings">设置</string>
+    <string name="org_url">http://112.91.151.10:7777/restaurant/</string>
+	<string name="set_shortcut">快捷方式名字</string>
+    <string name="save_shortcut">保存并创建快捷方式</string>
+</resources>
